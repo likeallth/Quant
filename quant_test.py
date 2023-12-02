@@ -4,6 +4,8 @@
 
 import seaborn as sns
 import pandas as pd
+import numpy as np
+
 #iris = sns.load_dataset('iris')
 
 dic_data = {'a' : 1, 'b' : 2, 'c' : 3}
